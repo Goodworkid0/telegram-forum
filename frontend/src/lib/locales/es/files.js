@@ -1,0 +1,17 @@
+export default {
+  'files.title': 'Archivos',
+  'files.subtitle': 'Archivos compartidos por la comunidad — se te envían por Telegram',
+  'files.search_ph': 'Buscar archivos…',
+  'files.empty': 'Aún no hay archivos',
+  'files.empty_hint': 'Envía un archivo al bot para compartirlo — aparecerá aquí tras la aprobación de un administrador.',
+  'files.download': 'Obtener en Telegram',
+  'files.sending': 'Enviando…',
+  'files.sent': '¡Enviado! Revisa tus mensajes de Telegram.',
+  'files.not_started': 'Abre el bot y pulsa Iniciar, luego inténtalo de nuevo.',
+  'files.download_failed': 'No se pudo enviar el archivo. Inténtalo de nuevo.',
+  'files.by': 'por',
+  'files.downloads': 'descargas',
+  'files.load_error': 'Error al cargar los archivos',
+  'files.all_categories': 'Todos',
+  'files.uncategorized': 'Sin categoría',
+}

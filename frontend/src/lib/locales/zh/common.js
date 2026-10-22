@@ -1,0 +1,95 @@
+// 简体中文：应用框架、顶层页面和通用词汇。
+export default {
+  // 底部导航
+  'nav.forum': '论坛',
+  'nav.chatbox': '聊天室',
+  'nav.files': '文件',
+  'nav.escrow': '担保交易',
+  'nav.admin': '管理',
+  'nav.mod_queue': '审核队列',
+
+  // 顶栏 / 用户菜单
+  'menu.profile': '个人资料',
+  'menu.settings': '设置',
+  'menu.admin_dashboard': '管理后台',
+  'menu.wallet': '钱包',
+  'menu.shop': '商店',
+  'menu.referrals': '推荐',
+  'menu.live_chat': '在线聊天',
+  'menu.announcements': '公告',
+  'menu.official_group': '官方群组',
+  'menu.viewing_as': '当前视角',
+  'menu.back_to_admin': '返回管理',
+  'menu.level': '等级 {n}',
+
+  // 顶层页面
+  'app.loading': '加载中...',
+  'app.telegram_only': '本应用仅可在 Telegram 内使用。',
+  'app.open_in_telegram': '在 Telegram 中打开',
+  'app.search_bot': '在 Telegram 中搜索 @{bot}',
+  'app.view_blacklist': '查看黑名单',
+  'app.maintenance': '系统维护中，请稍后再来。',
+  'app.signin_failed': '登录失败',
+  'app.signin_failed_detail': '无法验证你的 Telegram 会话。会话可能已过期，或服务暂时不可用。请稍后重试。',
+
+  // 通用词汇
+  'common.save': '保存',
+  'common.cancel': '取消',
+  'common.delete': '删除',
+  'common.edit': '编辑',
+  'common.retry': '重试',
+  'common.refresh': '刷新',
+  'common.loading': '加载中',
+  'common.saving': '保存中...',
+  'common.back': '返回',
+  'common.confirm': '确认',
+  'common.report': '举报',
+  'common.load_failed': '加载失败',
+
+  // 相对时间
+  'time.never': '从未',
+  'time.just_now': '刚刚',
+  'time.m_ago': '{n}分钟前',
+  'time.h_ago': '{n}小时前',
+  'time.d_ago': '{n}天前',
+  'time.mo_ago': '{n}个月前',
+  'time.y_ago': '{n}年前',
+  'time.today': '今天',
+  'time.yesterday': '昨天',
+  'time.at': '{date} {time}',
+
+  // 框架提示
+  'common.new_notification_one': '你有一条新通知',
+  'common.new_notification_many': '你有 {n} 条新通知',
+  'common.new_notification_title': '新通知',
+  'common.daily_claimed': '已领取 {xp} XP + ${amount}！',
+  'common.daily_claim_failed': '领取每日奖励失败',
+
+  // 状态
+  'status.pending': '待处理',
+  'status.accepted': '已接受',
+  'status.funded': '已托管',
+  'status.delivered': '已交付',
+  'status.completed': '已完成',
+  'status.disputed': '争议中',
+  'status.cancelled': '已取消',
+  'status.refunded': '已退款',
+  'status.processing': '处理中',
+  'status.approved': '已批准',
+  'status.rejected': '已拒绝',
+  'status.failed': '失败',
+  'status.active': '进行中',
+  'status.disabled': '已停用',
+  'status.deleted': '已删除',
+  'status.expired': '已过期',
+  'status.needs_review': '待审核',
+
+  // 角色
+  'role.admin': '管理员',
+  'role.mod': '版主',
+  'role.member': '成员',
+  'role.trial': '试用',
+  'common.load_more': '加载更多',
+  'menu.support': '客服支持',
+  'common.close': '关闭',
+}

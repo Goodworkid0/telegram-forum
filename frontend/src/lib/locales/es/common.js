@@ -1,0 +1,95 @@
+// Cadenas en español: chrome del layout, pantallas de nivel de app y palabras genéricas.
+export default {
+  // Navegación inferior
+  'nav.forum': 'Foro',
+  'nav.chatbox': 'Chat',
+  'nav.files': 'Archivos',
+  'nav.escrow': 'Escrow',
+  'nav.admin': 'Admin',
+  'nav.mod_queue': 'Moderación',
+
+  // Cabecera / menú de usuario
+  'menu.profile': 'Perfil',
+  'menu.settings': 'Ajustes',
+  'menu.admin_dashboard': 'Panel de administración',
+  'menu.wallet': 'Billetera',
+  'menu.shop': 'Tienda',
+  'menu.referrals': 'Referidos',
+  'menu.live_chat': 'Chat en vivo',
+  'menu.announcements': 'Anuncios',
+  'menu.official_group': 'Grupo oficial',
+  'menu.viewing_as': 'Viendo como',
+  'menu.back_to_admin': 'Volver a Admin',
+  'menu.level': 'Nivel {n}',
+
+  // Pantallas de nivel de app
+  'app.loading': 'Cargando...',
+  'app.telegram_only': 'Esta app solo está disponible dentro de Telegram.',
+  'app.open_in_telegram': 'Abrir en Telegram',
+  'app.search_bot': 'Busca @{bot} en Telegram',
+  'app.view_blacklist': 'Ver lista negra',
+  'app.maintenance': 'Estamos en mantenimiento. Vuelve a intentarlo pronto.',
+  'app.signin_failed': 'No pudimos iniciar tu sesión',
+  'app.signin_failed_detail': 'No pudimos verificar tu sesión de Telegram. Puede haber expirado, o el servicio no está disponible temporalmente. Inténtalo de nuevo en un momento.',
+
+  // Palabras genéricas reutilizadas en varias páginas
+  'common.save': 'Guardar',
+  'common.cancel': 'Cancelar',
+  'common.delete': 'Eliminar',
+  'common.edit': 'Editar',
+  'common.retry': 'Reintentar',
+  'common.refresh': 'Actualizar',
+  'common.loading': 'cargando',
+  'common.saving': 'Guardando...',
+  'common.back': 'Atrás',
+  'common.confirm': 'Confirmar',
+  'common.report': 'Denunciar',
+  'common.load_failed': 'Error al cargar',
+
+  // Tiempo relativo
+  'time.never': 'nunca',
+  'time.just_now': 'justo ahora',
+  'time.m_ago': 'hace {n}m',
+  'time.h_ago': 'hace {n}h',
+  'time.d_ago': 'hace {n}d',
+  'time.mo_ago': 'hace {n} meses',
+  'time.y_ago': 'hace {n} años',
+  'time.today': 'Hoy',
+  'time.yesterday': 'Ayer',
+  'time.at': '{date} a las {time}',
+
+  // Avisos del layout
+  'common.new_notification_one': 'Tienes una nueva notificación',
+  'common.new_notification_many': 'Tienes {n} notificaciones nuevas',
+  'common.new_notification_title': 'Nueva notificación',
+  'common.daily_claimed': '¡Reclamaste {xp} XP + ${amount}!',
+  'common.daily_claim_failed': 'Error al reclamar la recompensa diaria',
+
+  // Estados
+  'status.pending': 'pendiente',
+  'status.accepted': 'aceptado',
+  'status.funded': 'financiado',
+  'status.delivered': 'entregado',
+  'status.completed': 'completado',
+  'status.disputed': 'en disputa',
+  'status.cancelled': 'cancelado',
+  'status.refunded': 'reembolsado',
+  'status.processing': 'procesando',
+  'status.approved': 'aprobado',
+  'status.rejected': 'rechazado',
+  'status.failed': 'fallido',
+  'status.active': 'activo',
+  'status.disabled': 'desactivado',
+  'status.deleted': 'eliminado',
+  'status.expired': 'expirado',
+  'status.needs_review': 'en revisión',
+
+  // Roles
+  'role.admin': 'admin',
+  'role.mod': 'mod',
+  'role.member': 'miembro',
+  'role.trial': 'prueba',
+  'common.load_more': 'Cargar más',
+  'menu.support': 'Soporte',
+  'common.close': 'Cerrar',
+}

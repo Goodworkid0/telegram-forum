@@ -1,0 +1,95 @@
+// Русские строки: каркас приложения, экраны верхнего уровня, общие слова.
+export default {
+  // Нижняя навигация
+  'nav.forum': 'Форум',
+  'nav.chatbox': 'Чат',
+  'nav.files': 'Файлы',
+  'nav.escrow': 'Гарант',
+  'nav.admin': 'Админ',
+  'nav.mod_queue': 'Модерация',
+
+  // Шапка / меню пользователя
+  'menu.profile': 'Профиль',
+  'menu.settings': 'Настройки',
+  'menu.admin_dashboard': 'Панель администратора',
+  'menu.wallet': 'Кошелёк',
+  'menu.shop': 'Магазин',
+  'menu.referrals': 'Рефералы',
+  'menu.live_chat': 'Живой чат',
+  'menu.announcements': 'Объявления',
+  'menu.official_group': 'Официальная группа',
+  'menu.viewing_as': 'Просмотр от имени',
+  'menu.back_to_admin': 'Вернуться в админку',
+  'menu.level': 'Уровень {n}',
+
+  // Экраны верхнего уровня
+  'app.loading': 'Загрузка...',
+  'app.telegram_only': 'Приложение доступно только внутри Telegram.',
+  'app.open_in_telegram': 'Открыть в Telegram',
+  'app.search_bot': 'Найдите @{bot} в Telegram',
+  'app.view_blacklist': 'Чёрный список',
+  'app.maintenance': 'Идут технические работы. Загляните чуть позже.',
+  'app.signin_failed': 'Не удалось войти',
+  'app.signin_failed_detail': 'Не удалось проверить вашу Telegram-сессию. Возможно, она истекла или сервис временно недоступен. Попробуйте ещё раз через минуту.',
+
+  // Общие слова
+  'common.save': 'Сохранить',
+  'common.cancel': 'Отмена',
+  'common.delete': 'Удалить',
+  'common.edit': 'Изменить',
+  'common.retry': 'Повторить',
+  'common.refresh': 'Обновить',
+  'common.loading': 'загрузка',
+  'common.saving': 'Сохранение...',
+  'common.back': 'Назад',
+  'common.confirm': 'Подтвердить',
+  'common.report': 'Пожаловаться',
+  'common.load_failed': 'Не удалось загрузить',
+
+  // Относительное время
+  'time.never': 'никогда',
+  'time.just_now': 'только что',
+  'time.m_ago': '{n} мин назад',
+  'time.h_ago': '{n} ч назад',
+  'time.d_ago': '{n} дн назад',
+  'time.mo_ago': '{n} мес назад',
+  'time.y_ago': '{n} г назад',
+  'time.today': 'Сегодня',
+  'time.yesterday': 'Вчера',
+  'time.at': '{date} в {time}',
+
+  // Тосты каркаса
+  'common.new_notification_one': 'У вас новое уведомление',
+  'common.new_notification_many': 'У вас {n} новых уведомлений',
+  'common.new_notification_title': 'Новое уведомление',
+  'common.daily_claimed': 'Получено {xp} XP + ${amount}!',
+  'common.daily_claim_failed': 'Не удалось получить ежедневную награду',
+
+  // Статусы
+  'status.pending': 'ожидание',
+  'status.accepted': 'принято',
+  'status.funded': 'оплачено',
+  'status.delivered': 'доставлено',
+  'status.completed': 'завершено',
+  'status.disputed': 'спор',
+  'status.cancelled': 'отменено',
+  'status.refunded': 'возврат',
+  'status.processing': 'обработка',
+  'status.approved': 'одобрено',
+  'status.rejected': 'отклонено',
+  'status.failed': 'ошибка',
+  'status.active': 'активно',
+  'status.disabled': 'выключено',
+  'status.deleted': 'удалено',
+  'status.expired': 'истекло',
+  'status.needs_review': 'на проверке',
+
+  // Роли
+  'role.admin': 'админ',
+  'role.mod': 'мод',
+  'role.member': 'участник',
+  'role.trial': 'триал',
+  'common.load_more': 'Показать ещё',
+  'menu.support': 'Поддержка',
+  'common.close': 'Закрыть',
+}

@@ -1,0 +1,17 @@
+export default {
+  'files.title': '文件分享',
+  'files.subtitle': '社区分享的文件 — 通过 Telegram 发送给你',
+  'files.search_ph': '搜索文件…',
+  'files.empty': '暂无文件',
+  'files.empty_hint': '把文件发给机器人即可分享 — 管理员审核通过后会显示在这里。',
+  'files.download': '在 Telegram 获取',
+  'files.sending': '发送中…',
+  'files.sent': '已发送！请查看你的 Telegram 私信。',
+  'files.not_started': '请先打开机器人并点击“开始”，然后重试。',
+  'files.download_failed': '文件发送失败，请重试。',
+  'files.by': '来自',
+  'files.downloads': '次下载',
+  'files.load_error': '加载文件失败',
+  'files.all_categories': '全部',
+  'files.uncategorized': '未分类',
+}

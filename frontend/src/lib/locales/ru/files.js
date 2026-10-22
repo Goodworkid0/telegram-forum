@@ -1,0 +1,17 @@
+export default {
+  'files.title': 'Файлы',
+  'files.subtitle': 'Файлы от сообщества — отправляются вам в Telegram',
+  'files.search_ph': 'Поиск файлов…',
+  'files.empty': 'Пока нет файлов',
+  'files.empty_hint': 'Отправьте файл боту, чтобы поделиться — он появится здесь после одобрения администратором.',
+  'files.download': 'Получить в Telegram',
+  'files.sending': 'Отправка…',
+  'files.sent': 'Отправлено! Проверьте личные сообщения в Telegram.',
+  'files.not_started': 'Откройте бота и нажмите «Старт», затем повторите.',
+  'files.download_failed': 'Не удалось отправить файл. Попробуйте ещё раз.',
+  'files.by': 'от',
+  'files.downloads': 'загрузок',
+  'files.load_error': 'Не удалось загрузить файлы',
+  'files.all_categories': 'Все',
+  'files.uncategorized': 'Без категории',
+}
